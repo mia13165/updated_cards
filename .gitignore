@@ -1,0 +1,6 @@
+*
+!chunks/
+!chunks/**
+!index/
+!index/**
+!.gitignore
